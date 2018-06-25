@@ -5,3 +5,4 @@ js useful util functions
 
 * debounce
 * throttle
+* singleton
