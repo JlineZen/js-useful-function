@@ -7,3 +7,4 @@ js useful util functions
 * throttle
 * singleton
 * queue
+* module模块模式
